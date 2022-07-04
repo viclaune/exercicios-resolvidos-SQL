@@ -1,9 +1,9 @@
-![image](https://user-images.githubusercontent.com/107379028/175045307-0c0c9b3c-7b08-4f4a-a974-e5e7cc4788e4.png)
+![image](https://fptcloud.com/wp-content/uploads/2021/12/Untitled-3-01.jpg)
 
-# Exercícios Resolvidos do HackerRank (SQL)
+# Exercícios Resolvidos de SQL
 
 ## Descrição do projeto
-Resolução de exercícios apresentados no Hacker Rank com o intuito de desenvolver e solidificar o conhecimento em SQL.
+Resolução de exercícios de SQL de diferentes fontes como HackerRank e Mentorama. Repositório criado com o intuito de desenvolver e solidificar os conhecimentos da linguagem SQL.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 * `SQL`
